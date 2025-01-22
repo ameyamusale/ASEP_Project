@@ -4,6 +4,7 @@ void check();
 void insights();
 void calculate();
 void exit();
+void project();
 
 int vehicle_count=0,CAR;
 int max=100;
