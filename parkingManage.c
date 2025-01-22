@@ -6,7 +6,7 @@ void calculate();
 void exit();
 void project();
 
-int vehicle_count=0,CAR;
+int vehicle_count=0,C;
 int max=100;
 
 typedef struct
